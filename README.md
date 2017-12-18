@@ -1,2 +1,4 @@
 # hello-world
-GitHub giude
+GitHub guide
+
+Me, Myself and I!
